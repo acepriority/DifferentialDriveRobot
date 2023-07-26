@@ -1,0 +1,9 @@
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/uninstall.dir
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/mobile_package_uninstall.dir
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/test.dir
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/edit_cache.dir
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/rebuild_cache.dir
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/list_install_components.dir
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/install.dir
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/install/local.dir
+/home/ace/Desktop/new_ws/build/mobile_package/CMakeFiles/install/strip.dir

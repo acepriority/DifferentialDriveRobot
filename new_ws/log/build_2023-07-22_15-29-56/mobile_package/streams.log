@@ -1,0 +1,39 @@
+[0.224s] Invoking command in '/home/ace/Desktop/new_ws/build/mobile_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ace/ros2_ws/install/robot_controller:/opt/ros/humble /home/ace/.local/bin/cmake --build /home/ace/Desktop/new_ws/build/mobile_package -- -j4 -l4
+[1.390s] Invoked command in '/home/ace/Desktop/new_ws/build/mobile_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ace/ros2_ws/install/robot_controller:/opt/ros/humble /home/ace/.local/bin/cmake --build /home/ace/Desktop/new_ws/build/mobile_package -- -j4 -l4
+[1.693s] Invoking command in '/home/ace/Desktop/new_ws/build/mobile_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ace/ros2_ws/install/robot_controller:/opt/ros/humble /home/ace/.local/bin/cmake --install /home/ace/Desktop/new_ws/build/mobile_package
+[1.868s] -- Install configuration: ""
+[1.899s] -- Execute custom install script
+[1.922s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/config/controllers.yaml
+[1.923s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/config/mapper_params_online_async.yaml
+[1.923s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/config/nav2_params.yaml
+[1.923s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/config/robot_rviz.rviz
+[1.924s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/config/twist_mux.yaml
+[1.925s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/description/LiDAR.xacro
+[1.925s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/description/camera.xacro
+[1.925s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/description/control.xacro
+[1.925s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/description/inertial_macros.xacro
+[1.926s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/description/robot_URDF.xacro
+[1.926s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/description/robot_URDF_DESC.xacro
+[1.926s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/description/ros2_control.xacro
+[1.927s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/launch/launch_sim.launch.py
+[1.928s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/launch/localization_launch.py
+[1.928s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/launch/navigation_launch.py
+[1.928s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/launch/online_async_launch.py
+[1.928s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/launch/robot.launch.py
+[1.930s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/worlds/robot_world.world
+[1.931s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/ament_index/resource_index/package_run_dependencies/mobile_package
+[1.965s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/ament_index/resource_index/parent_prefix_path/mobile_package
+[1.966s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/environment/ament_prefix_path.sh
+[1.966s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/environment/ament_prefix_path.dsv
+[1.966s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/environment/path.sh
+[1.967s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/environment/path.dsv
+[1.967s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/local_setup.bash
+[1.968s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/local_setup.sh
+[1.968s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/local_setup.zsh
+[1.969s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/local_setup.dsv
+[1.969s] -- Symlinking: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/package.dsv
+[1.977s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/ament_index/resource_index/packages/mobile_package
+[1.978s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/cmake/mobile_packageConfig.cmake
+[1.978s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/cmake/mobile_packageConfig-version.cmake
+[1.979s] -- Up-to-date symlink: /home/ace/Desktop/new_ws/install/mobile_package/share/mobile_package/package.xml
+[2.012s] Invoked command in '/home/ace/Desktop/new_ws/build/mobile_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ace/ros2_ws/install/robot_controller:/opt/ros/humble /home/ace/.local/bin/cmake --install /home/ace/Desktop/new_ws/build/mobile_package

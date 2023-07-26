@@ -1,0 +1,1 @@
+/home/ace/Desktop/new_ws/build/mobile_package/ament_cmake_core/mobile_packageConfig.cmake
